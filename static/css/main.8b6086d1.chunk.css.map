@@ -1,0 +1,1 @@
+{"version":3,"sources":["mian.css"],"names":[],"mappings":"AAAA,KACI,0BAA2B,CAC3B,wBAAyB,CACzB,qBAAsB,CACtB,oBAAqB,CACrB,gBACJ","file":"main.8b6086d1.chunk.css","sourcesContent":["body {\n    -webkit-touch-callout: none;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n"]}
